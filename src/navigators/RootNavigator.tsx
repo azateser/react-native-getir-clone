@@ -5,6 +5,7 @@ import {Entypo, FontAwesome, MaterialCommunityIcons} from '@expo/vector-icons'
 import HomeNavigator from './HomeNavigator'
 import { TouchableOpacity } from 'react-native'
 
+
 const Tab = createBottomTabNavigator()
 const RootNavigator = () => {
   const CustomTabBarButton = ({children}: any) => (

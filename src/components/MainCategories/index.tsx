@@ -1,9 +1,7 @@
 import React, { useState } from "react";
 import { View, StyleSheet } from "react-native";
 import CategoryItem from "../CategoryItem";
-
 import categoriesGetir from "../../../assets/categoriesGetir";
-
 import { Category } from "../../interfaces";
 
 const MainCategories = () => {
@@ -12,7 +10,7 @@ const MainCategories = () => {
     <View>
       <View style={styles.listContainer}>
         {categories.map((category) => {
-          return <CategoryItem key={category.id} category={category} />;
+          return <CategoryItem key={category.id} item={category} />;
         })}
       </View>
     </View>
