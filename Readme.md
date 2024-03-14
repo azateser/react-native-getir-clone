@@ -17,12 +17,12 @@ This is a clone of the Getir app. It is built using React Native and Expo. It is
 ## Screenshots
 
 <div style="display:flex;">
-<img style="width: 50%" src="./screenshots/1.png" />
-<img style="width: 50%" src="./screenshots/2.png" />
+<img style="width: 45%" src="./screenshots/1.png" />
+<img style="width: 45%" src="./screenshots/2.png" />
 </div>
 <div style="display:flex;">
-<img style="width: 50%" src="./screenshots/3.png" />
-<img style="width: 50%" src="./screenshots/4.png" />
+<img style="width: 45%" src="./screenshots/3.png" />
+<img style="width: 45%" src="./screenshots/4.png" />
 </div>
 
 ## Features
